@@ -9,3 +9,4 @@ Each transaction is mined into a block applying sha256 algorithm.
 For each wallet a public and a private key are created using an elliptic curve cryptography algorithm.
 
 
+![alt text](http://url/to/img.png)
