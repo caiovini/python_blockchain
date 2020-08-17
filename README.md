@@ -1,4 +1,4 @@
-# python_blockchain
+## python_blockchain
 Small blockchain project written in python
 
 
@@ -12,3 +12,14 @@ Reference project: https://medium.com/programmers-blockchain/create-simple-block
 
 
 ![alt text](https://github.com/caiovini/python_blockchain/blob/master/Mining.png)
+
+
+## Instructions
+
+install requirements :
+
+pip3 install -r requirements.txt
+
+init application:
+
+python3 noob_chain.py
